@@ -1,0 +1,207 @@
+{
+  "domain": "pulsometerface",
+  "niche": "Haute Horology & Pulsometer Chronographs",
+  "design_concept": "Nordic Vanguard & Minimalist Organic",
+  "archetype_id": "nordic_organic",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "pulsometer_watch_01_Breitling_Navitimer_chronograph_.jpg",
+      "size_kb": 298.89,
+      "md5": "23d484ff8ac95ae1e519ae60d93c604c",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Breitling Navitimer chronograph",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "pulsometer_watch_02_Chronograph_sub-dials_of_Breitli.jpg",
+      "size_kb": 92.24,
+      "md5": "136179f3caabf246d0fad11c5d0edca4",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Chronograph sub dials of Breitli",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "pulsometer_watch_03_Crown_and_chronograph_pushers_of.jpg",
+      "size_kb": 144.81,
+      "md5": "7d5f1a4ba16bc5807aed556ecf694b65",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Crown and chronograph pushers of",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "pulsometer_watch_04_Defect_watch_Poljot_Buran_chrono.jpg",
+      "size_kb": 289.55,
+      "md5": "5e224f8e4024da200577e82b3ec0472f",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Defect watch Poljot Buran chrono",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "pulsometer_watch_05_Detail_of_Citizen_Promaster_3510.jpg",
+      "size_kb": 52.06,
+      "md5": "fbc60dfb4484217c54384ae68a087a44",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Detail of Citizen Promaster 3510",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "pulsometer_watch_06_Detailed_view_of_Rolex_Daytona_c.jpg",
+      "size_kb": 109.88,
+      "md5": "1db512869282a0e6edaea1155c46b0bd",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Detailed view of Rolex Daytona c",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "pulsometer_watch_07_Details_of_dial_of_FORTIS_FLIEGE.jpg",
+      "size_kb": 74.14,
+      "md5": "3c834448bdf3c2391e5b8039a28394cf",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Details of dial of FORTIS FLIEGE",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "pulsometer_watch_08_Dial_detail_of_a_Seiko_Speed-Tim.jpg",
+      "size_kb": 224.07,
+      "md5": "f1029956699e2523a7715c2f9e3d4b81",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Dial detail of a Seiko Speed Tim",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "pulsometer_watch_09_Hour_hand_and_minute_hand_and_ch.jpg",
+      "size_kb": 104.82,
+      "md5": "eb25c6b07197a6d8a52a7670cbe42945",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Hour hand and minute hand and ch",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "pulsometer_watch_10_Poljot_Buran_chronograph_watch_f.jpg",
+      "size_kb": 166.09,
+      "md5": "b04cac95b9fd37489a02f4435369d133",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Poljot Buran chronograph watch f",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "pulsometer_watch_11_Small_sub-dial_on_Seiko_quartz_c.jpg",
+      "size_kb": 146.99,
+      "md5": "87a96ca852b42d211473243c0b5ad4c5",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Small sub dial on Seiko quartz c",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "pulsometer_watch_12_Two_sub-dials_of_Rolex_Daytona_c.jpg",
+      "size_kb": 44.61,
+      "md5": "28d1ea14a3c34f670fd30383f854d1af",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Two sub dials of Rolex Daytona c",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "pulsometer_watch_13_Watch_hands_of_Poljot_Buran_chro.jpg",
+      "size_kb": 104.81,
+      "md5": "81b6e721be0ef724a8149c985d150545",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Watch hands of Poljot Buran chro",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "pulsometer_watch_14_20200410_Aquastar_016-Edit.jpg",
+      "size_kb": 110.91,
+      "md5": "824a68430cefe6e3423cb1170a3dc1ad",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: 20200410 Aquastar 016 Edit",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "pulsometer_watch_15_Before-and-after_comparison_of_p.jpg",
+      "size_kb": 149.76,
+      "md5": "12874559bd305b87fce34894ed1ee3b5",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Before and after comparison of p",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "pulsometer_watch_16_Cimier_Watch_Seven_Seas_Sextant_.jpg",
+      "size_kb": 159.43,
+      "md5": "836f636cc30f37678deb88a921826ef9",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Cimier Watch Seven Seas Sextant",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "pulsometer_watch_17_Doxa_T-Graph.jpg",
+      "size_kb": 90.07,
+      "md5": "b9173372a3bb9081cb52b261c57f3857",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Doxa T Graph",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "pulsometer_watch_18_Four_analog_wristwatches_with_wa.jpg",
+      "size_kb": 170.66,
+      "md5": "1876de2347835caf4016a65b42abfe5e",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Four analog wristwatches with wa",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "pulsometer_watch_19_Four_analog_wristwatches_with_wa.jpg",
+      "size_kb": 189.74,
+      "md5": "88affe2689c5761cc425392d4bde801c",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Four analog wristwatches with wa",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "pulsometer_watch_20_Four_analog_wristwatches_with_wa.jpg",
+      "size_kb": 192.38,
+      "md5": "391842704d001865bf49e0f3dfee4bc3",
+      "description": "Artisanal Haute Horology & Pulsometer Chronographs: Four analog wristwatches with wa",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://pulsometerface.com/sitemap.xml",
+    "robots": "https://pulsometerface.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
